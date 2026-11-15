@@ -1,0 +1,10 @@
+measure,records,type,percent_of_all_pages
+All candidate pages,40058,baseline,100.0
+Resolved rank,28564,individual,71.3066054221379
+Usable certificate date,27718,individual,69.19466773178891
+Provisional widow ID,27620,individual,68.95002246742224
+Numeric amount,15991,individual,39.91961655599381
+Resolved service duration,14947,individual,37.3133955764142
+Amount + date,11104,intersection,27.719806280892705
+Amount + date + duration,3385,intersection,8.450247141644615
+Amount + date + duration + rank,2192,intersection,5.472065505017724

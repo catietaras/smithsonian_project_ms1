@@ -1,0 +1,13 @@
+check,observed,expected,status
+checkpoint rows,40058.0,40058.0,PASS
+checkpoint source columns,70.0,70.0,PASS
+numeric amounts,15991.0,15991.0,PASS
+amount and date,11104.0,11104.0,PASS
+complete comparison fields,2192.0,2192.0,PASS
+provisional widow groups,15518.0,15518.0,PASS
+groups with multiple distinct amounts,858.0,858.0,PASS
+period rows sum,40058.0,40058.0,PASS
+period numeric sum,15991.0,15991.0,PASS
+distribution maximum,2100.0,2100.0,PASS
+distribution p99,525.0,525.0,PASS
+amounts below 100,13976.0,13976.0,PASS
