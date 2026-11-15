@@ -1,0 +1,74 @@
+comparison_type,assigned_legal_period,group,n,median,minimum,maximum,q1,q3
+rank,"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Captain,16,273.335,10.0,480.0,120.0,480.0
+rank,"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Major,10,94.66499999999999,36.66,1111.5,80.025,218.4725
+rank,"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Private,450,45.254999999999995,0.0,400.0,28.130000000000003,80.0
+rank,"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Sergeant,27,108.0,20.0,324.08,66.03,120.0
+rank,"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",,325,80.0,0.0,1114.8,40.67,188.0
+rank,"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Corporal,16,29.525,11.33,104.0,27.575000000000003,59.7175
+rank,"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Lieutenant,14,208.22000000000003,93.33,315.0,104.0925,262.5575
+rank,"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Private,1132,35.015,0.0,370.33,26.66,55.192499999999995
+rank,"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Sergeant,25,100.5,36.33,180.0,63.03,120.0
+rank,"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",,444,67.995,0.0,1136.33,36.66,115.65
+rank,"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Corporal,15,48.26,24.77,149.66,27.715,88.0
+rank,"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Lieutenant,13,222.5,97.1,468.88,150.22,289.26
+rank,"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Private,946,37.435,0.0,400.0,26.66,60.0
+rank,"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Sergeant,22,116.745,30.5,1500.0,71.2475,120.0
+rank,"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",,320,72.91499999999999,11.38,1000.0,37.817499999999995,106.0025
+rank,"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Captain,10,236.32999999999998,85.46,1000.0,131.665,559.95
+rank,"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Corporal,14,56.57000000000001,5.33,94.33,33.0,81.0725
+rank,"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Private,931,36.66,0.0,313.98,26.66,59.08
+rank,"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Sergeant,16,71.66,35.16,120.0,50.474999999999994,108.33
+rank,"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",,514,60.66,0.0,1148.64,33.22,88.0
+rank,"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Private,174,41.165,4.66,153.08,27.91,66.66
+rank,"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",,64,76.08,7.22,521.75,47.972500000000004,96.0
+rank,"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Captain,19,250.33,25.55,525.0,180.05,480.0
+rank,"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Corporal,23,88.0,24.77,153.08,42.165,96.0
+rank,"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Lieutenant,18,235.635,26.66,400.0,81.325,320.0
+rank,"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Private,1505,49.54,0.0,936.66,30.0,80.0
+rank,"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Sergeant,31,102.0,12.23,240.0,72.5,120.0
+rank,"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",,627,80.0,0.0,2100.0,43.33,148.44
+rank,"1853-02-03 onward (Act of February 3, 1853)",Captain,33,410.66,20.0,600.0,222.0,480.0
+rank,"1853-02-03 onward (Act of February 3, 1853)",Corporal,28,88.0,29.33,196.0,74.66499999999999,96.0
+rank,"1853-02-03 onward (Act of February 3, 1853)",Lieutenant,21,300.67,80.0,332.35,186.68,320.0
+rank,"1853-02-03 onward (Act of February 3, 1853)",Private,1608,61.765,0.0,287.32,30.0,96.0
+rank,"1853-02-03 onward (Act of February 3, 1853)",Sergeant,48,120.0,0.0,500.97,70.41499999999999,120.0
+rank,"1853-02-03 onward (Act of February 3, 1853)",,531,80.0,0.0,1000.0,41.065,109.83
+rank,Before 1836-07-04 — outside seven-period frame,Captain,16,303.33000000000004,100.0,600.0,150.0,480.0
+rank,Before 1836-07-04 — outside seven-period frame,Private,293,51.66,0.0,262.13,30.0,80.0
+rank,Before 1836-07-04 — outside seven-period frame,Sergeant,14,93.83,20.0,540.0,35.0,173.34
+rank,Before 1836-07-04 — outside seven-period frame,,194,75.5,1.51,600.0,37.3675,99.0
+service_duration,"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",12_to_under_24_months,124,57.555,10.0,475.0,43.33,78.355
+service_duration,"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",24_months_or_more,72,80.0,20.0,600.0,80.0,120.0
+service_duration,"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",6_to_under_12_months,159,30.0,16.88,1111.5,26.39,39.56
+service_duration,"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",duration_unresolved,457,80.0,0.0,1114.8,37.0,100.0
+service_duration,"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",under_6_months,30,62.79,20.0,243.33,37.57,97.0925
+service_duration,"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",12_to_under_24_months,395,57.56,0.0,811.66,45.855000000000004,73.33
+service_duration,"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",24_months_or_more,112,80.0,0.0,1136.33,77.9175,120.0
+service_duration,"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",6_to_under_12_months,669,29.33,10.0,399.21,25.66,36.66
+service_duration,"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",duration_unresolved,390,44.98,2.27,552.83,28.685000000000002,78.3125
+service_duration,"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",under_6_months,77,55.87,9.96,295.33,31.66,83.34
+service_duration,"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",12_to_under_24_months,122,56.66,0.0,400.0,46.66,67.715
+service_duration,"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",24_months_or_more,23,81.61,28.66,600.0,80.0,96.25
+service_duration,"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",6_to_under_12_months,161,27.78,15.88,311.66,25.55,36.66
+service_duration,"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",duration_unresolved,997,43.33,3.33,1500.0,27.22,77.23
+service_duration,"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",under_6_months,27,58.33,23.33,424.16,34.885,93.715
+service_duration,"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",12_to_under_24_months,165,56.88,1.5,588.66,46.32,70.77
+service_duration,"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",24_months_or_more,75,80.0,12.0,1000.0,80.0,99.045
+service_duration,"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",6_to_under_12_months,221,30.0,20.0,1148.64,25.66,35.11
+service_duration,"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",duration_unresolved,1003,40.55,0.0,600.0,27.295,76.3
+service_duration,"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",under_6_months,33,44.26,22.5,313.98,31.0,76.87
+service_duration,"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",duration_unresolved,225,48.92,4.66,521.75,30.75,80.44
+service_duration,"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",12_to_under_24_months,65,61.55,10.0,438.67,47.55,82.33
+service_duration,"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",24_months_or_more,88,91.66499999999999,0.0,600.0,80.0,242.67000000000002
+service_duration,"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",6_to_under_12_months,113,33.33,4.0,525.0,26.66,52.32
+service_duration,"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",duration_unresolved,1950,60.0,0.0,2100.0,33.33,96.0
+service_duration,"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",under_6_months,17,70.83,25.55,250.33,43.33,76.66
+service_duration,"1853-02-03 onward (Act of February 3, 1853)",12_to_under_24_months,53,52.53,8.0,574.11,43.33,146.55
+service_duration,"1853-02-03 onward (Act of February 3, 1853)",24_months_or_more,43,100.0,21.33,600.0,80.0,300.0
+service_duration,"1853-02-03 onward (Act of February 3, 1853)",6_to_under_12_months,60,31.049999999999997,20.0,420.0,26.66,44.0
+service_duration,"1853-02-03 onward (Act of February 3, 1853)",duration_unresolved,2113,79.86,0.0,1000.0,33.16,96.0
+service_duration,Before 1836-07-04 — outside seven-period frame,12_to_under_24_months,63,57.33,1.51,600.0,46.26,76.16499999999999
+service_duration,Before 1836-07-04 — outside seven-period frame,24_months_or_more,47,88.0,20.0,600.0,80.0,162.0
+service_duration,Before 1836-07-04 — outside seven-period frame,6_to_under_12_months,75,30.59,10.0,368.0,23.939999999999998,45.98
+service_duration,Before 1836-07-04 — outside seven-period frame,duration_unresolved,328,76.995,0.0,600.0,35.9125,96.0
+service_duration,Before 1836-07-04 — outside seven-period frame,under_6_months,19,44.1,20.88,430.0,33.54,113.5

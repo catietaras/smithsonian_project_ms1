@@ -1,0 +1,251 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="1350" viewBox="0 0 1100 1350">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#17202a}.title{font-size:18px;font-weight:bold}.label{font-size:12px}.small{font-size:10px;fill:#566573}.bar{fill:#4472a8}.axis{stroke:#7f8c8d;stroke-width:1}</style>
+<text x="55" y="28" class="title">Observed annual widow-pension amounts by certificate-issue legal period</text>
+<text x="55" y="46" class="small">Histograms show included, deduplicated candidate events; x-axis is annual dollars and is truncated at each period's 99th percentile for legibility.</text>
+<text x="55" y="71" class="label">1836-07-04 to 1838-07-06 — July 4, 1836 | n=842; missing=956</text>
+<line x1="55" y1="200" x2="1065" y2="200" class="axis"/>
+<rect x="55.0" y="190.4" width="32.7" height="9.6" class="bar"/>
+<rect x="88.7" y="83.0" width="32.7" height="117.0" class="bar"/>
+<rect x="122.3" y="134.0" width="32.7" height="66.0" class="bar"/>
+<rect x="156.0" y="167.7" width="32.7" height="32.3" class="bar"/>
+<rect x="189.7" y="109.5" width="32.7" height="90.5" class="bar"/>
+<rect x="223.3" y="185.1" width="32.7" height="14.9" class="bar"/>
+<rect x="257.0" y="186.5" width="32.7" height="13.5" class="bar"/>
+<rect x="290.7" y="194.2" width="32.7" height="5.8" class="bar"/>
+<rect x="324.3" y="196.1" width="32.7" height="3.9" class="bar"/>
+<rect x="358.0" y="197.1" width="32.7" height="2.9" class="bar"/>
+<rect x="391.7" y="195.2" width="32.7" height="4.8" class="bar"/>
+<rect x="425.3" y="198.1" width="32.7" height="1.9" class="bar"/>
+<rect x="459.0" y="190.9" width="32.7" height="9.1" class="bar"/>
+<rect x="492.7" y="197.6" width="32.7" height="2.4" class="bar"/>
+<rect x="526.3" y="196.1" width="32.7" height="3.9" class="bar"/>
+<rect x="560.0" y="198.1" width="32.7" height="1.9" class="bar"/>
+<rect x="593.7" y="192.8" width="32.7" height="7.2" class="bar"/>
+<rect x="627.3" y="199.0" width="32.7" height="1.0" class="bar"/>
+<rect x="661.0" y="198.1" width="32.7" height="1.9" class="bar"/>
+<rect x="694.7" y="199.5" width="32.7" height="0.5" class="bar"/>
+<rect x="728.3" y="199.5" width="32.7" height="0.5" class="bar"/>
+<rect x="762.0" y="199.5" width="32.7" height="0.5" class="bar"/>
+<rect x="795.7" y="199.0" width="32.7" height="1.0" class="bar"/>
+<rect x="829.3" y="199.5" width="32.7" height="0.5" class="bar"/>
+<rect x="863.0" y="197.1" width="32.7" height="2.9" class="bar"/>
+<rect x="896.7" y="199.0" width="32.7" height="1.0" class="bar"/>
+<rect x="930.3" y="199.0" width="32.7" height="1.0" class="bar"/>
+<rect x="964.0" y="199.5" width="32.7" height="0.5" class="bar"/>
+<rect x="997.7" y="200.0" width="32.7" height="0.0" class="bar"/>
+<rect x="1031.3" y="193.3" width="32.7" height="6.7" class="bar"/>
+<text x="55" y="215" class="small">$0</text>
+<text x="975" y="215" class="small">99th pct: $600.00</text>
+<text x="885" y="93" class="small">above display cap: 4</text>
+<text x="55" y="251" class="label">1838-07-07 to 1843-03-02 — July 7, 1838 | n=1,643; missing=2,935</text>
+<line x1="55" y1="380" x2="1065" y2="380" class="axis"/>
+<rect x="55.0" y="371.0" width="32.7" height="9.0" class="bar"/>
+<rect x="88.7" y="263.0" width="32.7" height="117.0" class="bar"/>
+<rect x="122.3" y="281.4" width="32.7" height="98.6" class="bar"/>
+<rect x="156.0" y="328.5" width="32.7" height="51.5" class="bar"/>
+<rect x="189.7" y="335.4" width="32.7" height="44.6" class="bar"/>
+<rect x="223.3" y="346.4" width="32.7" height="33.6" class="bar"/>
+<rect x="257.0" y="366.6" width="32.7" height="13.4" class="bar"/>
+<rect x="290.7" y="374.8" width="32.7" height="5.2" class="bar"/>
+<rect x="324.3" y="375.3" width="32.7" height="4.7" class="bar"/>
+<rect x="358.0" y="376.8" width="32.7" height="3.2" class="bar"/>
+<rect x="391.7" y="378.5" width="32.7" height="1.5" class="bar"/>
+<rect x="425.3" y="376.0" width="32.7" height="4.0" class="bar"/>
+<rect x="459.0" y="378.0" width="32.7" height="2.0" class="bar"/>
+<rect x="492.7" y="379.3" width="32.7" height="0.7" class="bar"/>
+<rect x="526.3" y="379.3" width="32.7" height="0.7" class="bar"/>
+<rect x="560.0" y="378.5" width="32.7" height="1.5" class="bar"/>
+<rect x="593.7" y="377.8" width="32.7" height="2.2" class="bar"/>
+<rect x="627.3" y="377.8" width="32.7" height="2.2" class="bar"/>
+<rect x="661.0" y="379.5" width="32.7" height="0.5" class="bar"/>
+<rect x="694.7" y="379.0" width="32.7" height="1.0" class="bar"/>
+<rect x="728.3" y="378.5" width="32.7" height="1.5" class="bar"/>
+<rect x="762.0" y="378.5" width="32.7" height="1.5" class="bar"/>
+<rect x="795.7" y="379.5" width="32.7" height="0.5" class="bar"/>
+<rect x="829.3" y="379.8" width="32.7" height="0.2" class="bar"/>
+<rect x="863.0" y="378.8" width="32.7" height="1.2" class="bar"/>
+<rect x="896.7" y="379.5" width="32.7" height="0.5" class="bar"/>
+<rect x="930.3" y="379.3" width="32.7" height="0.7" class="bar"/>
+<rect x="964.0" y="379.8" width="32.7" height="0.2" class="bar"/>
+<rect x="997.7" y="379.5" width="32.7" height="0.5" class="bar"/>
+<rect x="1031.3" y="375.3" width="32.7" height="4.7" class="bar"/>
+<text x="55" y="395" class="small">$0</text>
+<text x="975" y="395" class="small">99th pct: $449.29</text>
+<text x="885" y="273" class="small">above display cap: 17</text>
+<text x="55" y="431" class="label">1843-03-03 to 1844-06-16 — March 3, 1843 | n=1,330; missing=4,166</text>
+<line x1="55" y1="560" x2="1065" y2="560" class="axis"/>
+<rect x="55.0" y="555.6" width="32.7" height="4.4" class="bar"/>
+<rect x="88.7" y="443.0" width="32.7" height="117.0" class="bar"/>
+<rect x="122.3" y="477.5" width="32.7" height="82.5" class="bar"/>
+<rect x="156.0" y="509.1" width="32.7" height="50.9" class="bar"/>
+<rect x="189.7" y="519.9" width="32.7" height="40.1" class="bar"/>
+<rect x="223.3" y="512.6" width="32.7" height="47.4" class="bar"/>
+<rect x="257.0" y="549.5" width="32.7" height="10.5" class="bar"/>
+<rect x="290.7" y="553.3" width="32.7" height="6.7" class="bar"/>
+<rect x="324.3" y="556.8" width="32.7" height="3.2" class="bar"/>
+<rect x="358.0" y="557.1" width="32.7" height="2.9" class="bar"/>
+<rect x="391.7" y="558.8" width="32.7" height="1.2" class="bar"/>
+<rect x="425.3" y="557.4" width="32.7" height="2.6" class="bar"/>
+<rect x="459.0" y="558.8" width="32.7" height="1.2" class="bar"/>
+<rect x="492.7" y="558.5" width="32.7" height="1.5" class="bar"/>
+<rect x="526.3" y="557.7" width="32.7" height="2.3" class="bar"/>
+<rect x="560.0" y="558.8" width="32.7" height="1.2" class="bar"/>
+<rect x="593.7" y="559.1" width="32.7" height="0.9" class="bar"/>
+<rect x="627.3" y="558.8" width="32.7" height="1.2" class="bar"/>
+<rect x="661.0" y="559.4" width="32.7" height="0.6" class="bar"/>
+<rect x="694.7" y="558.8" width="32.7" height="1.2" class="bar"/>
+<rect x="728.3" y="559.1" width="32.7" height="0.9" class="bar"/>
+<rect x="762.0" y="558.8" width="32.7" height="1.2" class="bar"/>
+<rect x="795.7" y="559.7" width="32.7" height="0.3" class="bar"/>
+<rect x="829.3" y="559.4" width="32.7" height="0.6" class="bar"/>
+<rect x="863.0" y="559.7" width="32.7" height="0.3" class="bar"/>
+<rect x="896.7" y="559.1" width="32.7" height="0.9" class="bar"/>
+<rect x="930.3" y="559.7" width="32.7" height="0.3" class="bar"/>
+<rect x="964.0" y="559.1" width="32.7" height="0.9" class="bar"/>
+<rect x="997.7" y="559.7" width="32.7" height="0.3" class="bar"/>
+<rect x="1031.3" y="555.9" width="32.7" height="4.1" class="bar"/>
+<text x="55" y="575" class="small">$0</text>
+<text x="975" y="575" class="small">99th pct: $456.25</text>
+<text x="885" y="453" class="small">above display cap: 14</text>
+<text x="55" y="611" class="label">1844-06-17 to 1848-02-01 — June 17, 1844 | n=1,497; missing=1,801</text>
+<line x1="55" y1="740" x2="1065" y2="740" class="axis"/>
+<rect x="55.0" y="733.8" width="32.7" height="6.2" class="bar"/>
+<rect x="88.7" y="623.0" width="32.7" height="117.0" class="bar"/>
+<rect x="122.3" y="678.4" width="32.7" height="61.6" class="bar"/>
+<rect x="156.0" y="700.4" width="32.7" height="39.6" class="bar"/>
+<rect x="189.7" y="686.1" width="32.7" height="53.9" class="bar"/>
+<rect x="223.3" y="725.9" width="32.7" height="14.1" class="bar"/>
+<rect x="257.0" y="733.6" width="32.7" height="6.4" class="bar"/>
+<rect x="290.7" y="736.1" width="32.7" height="3.9" class="bar"/>
+<rect x="324.3" y="737.6" width="32.7" height="2.4" class="bar"/>
+<rect x="358.0" y="739.1" width="32.7" height="0.9" class="bar"/>
+<rect x="391.7" y="739.1" width="32.7" height="0.9" class="bar"/>
+<rect x="425.3" y="738.7" width="32.7" height="1.3" class="bar"/>
+<rect x="459.0" y="739.6" width="32.7" height="0.4" class="bar"/>
+<rect x="492.7" y="739.4" width="32.7" height="0.6" class="bar"/>
+<rect x="526.3" y="739.6" width="32.7" height="0.4" class="bar"/>
+<rect x="560.0" y="739.6" width="32.7" height="0.4" class="bar"/>
+<rect x="593.7" y="739.6" width="32.7" height="0.4" class="bar"/>
+<rect x="627.3" y="738.9" width="32.7" height="1.1" class="bar"/>
+<rect x="661.0" y="738.5" width="32.7" height="1.5" class="bar"/>
+<rect x="694.7" y="740.0" width="32.7" height="0.0" class="bar"/>
+<rect x="728.3" y="739.1" width="32.7" height="0.9" class="bar"/>
+<rect x="762.0" y="740.0" width="32.7" height="0.0" class="bar"/>
+<rect x="795.7" y="739.6" width="32.7" height="0.4" class="bar"/>
+<rect x="829.3" y="739.6" width="32.7" height="0.4" class="bar"/>
+<rect x="863.0" y="740.0" width="32.7" height="0.0" class="bar"/>
+<rect x="896.7" y="739.8" width="32.7" height="0.2" class="bar"/>
+<rect x="930.3" y="739.4" width="32.7" height="0.6" class="bar"/>
+<rect x="964.0" y="739.8" width="32.7" height="0.2" class="bar"/>
+<rect x="997.7" y="739.1" width="32.7" height="0.9" class="bar"/>
+<rect x="1031.3" y="736.4" width="32.7" height="3.6" class="bar"/>
+<text x="55" y="755" class="small">$0</text>
+<text x="975" y="755" class="small">99th pct: $503.73</text>
+<text x="885" y="633" class="small">above display cap: 15</text>
+<text x="55" y="791" class="label">1848-02-02 to 1848-07-28 — February 2, 1848 | n=245; missing=727</text>
+<line x1="55" y1="920" x2="1065" y2="920" class="axis"/>
+<rect x="55.0" y="911.4" width="32.7" height="8.6" class="bar"/>
+<rect x="88.7" y="803.0" width="32.7" height="117.0" class="bar"/>
+<rect x="122.3" y="823.6" width="32.7" height="96.4" class="bar"/>
+<rect x="156.0" y="868.4" width="32.7" height="51.6" class="bar"/>
+<rect x="189.7" y="873.5" width="32.7" height="46.5" class="bar"/>
+<rect x="223.3" y="856.3" width="32.7" height="63.7" class="bar"/>
+<rect x="257.0" y="909.7" width="32.7" height="10.3" class="bar"/>
+<rect x="290.7" y="918.3" width="32.7" height="1.7" class="bar"/>
+<rect x="324.3" y="918.3" width="32.7" height="1.7" class="bar"/>
+<rect x="358.0" y="918.3" width="32.7" height="1.7" class="bar"/>
+<rect x="391.7" y="918.3" width="32.7" height="1.7" class="bar"/>
+<rect x="425.3" y="920.0" width="32.7" height="0.0" class="bar"/>
+<rect x="459.0" y="920.0" width="32.7" height="0.0" class="bar"/>
+<rect x="492.7" y="920.0" width="32.7" height="0.0" class="bar"/>
+<rect x="526.3" y="918.3" width="32.7" height="1.7" class="bar"/>
+<rect x="560.0" y="918.3" width="32.7" height="1.7" class="bar"/>
+<rect x="593.7" y="920.0" width="32.7" height="0.0" class="bar"/>
+<rect x="627.3" y="920.0" width="32.7" height="0.0" class="bar"/>
+<rect x="661.0" y="920.0" width="32.7" height="0.0" class="bar"/>
+<rect x="694.7" y="916.6" width="32.7" height="3.4" class="bar"/>
+<rect x="728.3" y="918.3" width="32.7" height="1.7" class="bar"/>
+<rect x="762.0" y="920.0" width="32.7" height="0.0" class="bar"/>
+<rect x="795.7" y="920.0" width="32.7" height="0.0" class="bar"/>
+<rect x="829.3" y="918.3" width="32.7" height="1.7" class="bar"/>
+<rect x="863.0" y="918.3" width="32.7" height="1.7" class="bar"/>
+<rect x="896.7" y="920.0" width="32.7" height="0.0" class="bar"/>
+<rect x="930.3" y="920.0" width="32.7" height="0.0" class="bar"/>
+<rect x="964.0" y="920.0" width="32.7" height="0.0" class="bar"/>
+<rect x="997.7" y="918.3" width="32.7" height="1.7" class="bar"/>
+<rect x="1031.3" y="913.1" width="32.7" height="6.9" class="bar"/>
+<text x="55" y="935" class="small">$0</text>
+<text x="975" y="935" class="small">99th pct: $495.52</text>
+<text x="885" y="813" class="small">above display cap: 3</text>
+<text x="55" y="971" class="label">1848-07-29 to 1853-02-02 — July 29, 1848 | n=2,233; missing=3,214</text>
+<line x1="55" y1="1100" x2="1065" y2="1100" class="axis"/>
+<rect x="55.0" y="1090.2" width="32.7" height="9.8" class="bar"/>
+<rect x="88.7" y="983.0" width="32.7" height="117.0" class="bar"/>
+<rect x="122.3" y="1037.0" width="32.7" height="63.0" class="bar"/>
+<rect x="156.0" y="1056.8" width="32.7" height="43.2" class="bar"/>
+<rect x="189.7" y="1001.6" width="32.7" height="98.4" class="bar"/>
+<rect x="223.3" y="1090.0" width="32.7" height="10.0" class="bar"/>
+<rect x="257.0" y="1093.6" width="32.7" height="6.4" class="bar"/>
+<rect x="290.7" y="1097.1" width="32.7" height="2.9" class="bar"/>
+<rect x="324.3" y="1098.1" width="32.7" height="1.9" class="bar"/>
+<rect x="358.0" y="1097.1" width="32.7" height="2.9" class="bar"/>
+<rect x="391.7" y="1097.2" width="32.7" height="2.8" class="bar"/>
+<rect x="425.3" y="1099.3" width="32.7" height="0.7" class="bar"/>
+<rect x="459.0" y="1093.3" width="32.7" height="6.7" class="bar"/>
+<rect x="492.7" y="1099.3" width="32.7" height="0.7" class="bar"/>
+<rect x="526.3" y="1098.5" width="32.7" height="1.5" class="bar"/>
+<rect x="560.0" y="1098.8" width="32.7" height="1.2" class="bar"/>
+<rect x="593.7" y="1097.8" width="32.7" height="2.2" class="bar"/>
+<rect x="627.3" y="1099.7" width="32.7" height="0.3" class="bar"/>
+<rect x="661.0" y="1098.6" width="32.7" height="1.4" class="bar"/>
+<rect x="694.7" y="1099.5" width="32.7" height="0.5" class="bar"/>
+<rect x="728.3" y="1099.0" width="32.7" height="1.0" class="bar"/>
+<rect x="762.0" y="1099.5" width="32.7" height="0.5" class="bar"/>
+<rect x="795.7" y="1099.3" width="32.7" height="0.7" class="bar"/>
+<rect x="829.3" y="1099.5" width="32.7" height="0.5" class="bar"/>
+<rect x="863.0" y="1098.1" width="32.7" height="1.9" class="bar"/>
+<rect x="896.7" y="1099.8" width="32.7" height="0.2" class="bar"/>
+<rect x="930.3" y="1099.3" width="32.7" height="0.7" class="bar"/>
+<rect x="964.0" y="1100.0" width="32.7" height="0.0" class="bar"/>
+<rect x="997.7" y="1100.0" width="32.7" height="0.0" class="bar"/>
+<rect x="1031.3" y="1094.8" width="32.7" height="5.2" class="bar"/>
+<text x="55" y="1115" class="small">$0</text>
+<text x="975" y="1115" class="small">99th pct: $600.00</text>
+<text x="885" y="993" class="small">above display cap: 4</text>
+<text x="55" y="1151" class="label">1853-02-03 onward — February 3, 1853 | n=2,278; missing=1,886</text>
+<line x1="55" y1="1280" x2="1065" y2="1280" class="axis"/>
+<rect x="55.0" y="1268.7" width="32.7" height="11.3" class="bar"/>
+<rect x="88.7" y="1163.0" width="32.7" height="117.0" class="bar"/>
+<rect x="122.3" y="1215.5" width="32.7" height="64.5" class="bar"/>
+<rect x="156.0" y="1247.0" width="32.7" height="33.0" class="bar"/>
+<rect x="189.7" y="1208.1" width="32.7" height="71.9" class="bar"/>
+<rect x="223.3" y="1163.4" width="32.7" height="116.6" class="bar"/>
+<rect x="257.0" y="1269.7" width="32.7" height="10.3" class="bar"/>
+<rect x="290.7" y="1276.7" width="32.7" height="3.3" class="bar"/>
+<rect x="324.3" y="1278.6" width="32.7" height="1.4" class="bar"/>
+<rect x="358.0" y="1276.7" width="32.7" height="3.3" class="bar"/>
+<rect x="391.7" y="1275.5" width="32.7" height="4.5" class="bar"/>
+<rect x="425.3" y="1278.4" width="32.7" height="1.6" class="bar"/>
+<rect x="459.0" y="1278.1" width="32.7" height="1.9" class="bar"/>
+<rect x="492.7" y="1274.4" width="32.7" height="5.6" class="bar"/>
+<rect x="526.3" y="1279.2" width="32.7" height="0.8" class="bar"/>
+<rect x="560.0" y="1278.1" width="32.7" height="1.9" class="bar"/>
+<rect x="593.7" y="1279.0" width="32.7" height="1.0" class="bar"/>
+<rect x="627.3" y="1279.0" width="32.7" height="1.0" class="bar"/>
+<rect x="661.0" y="1275.3" width="32.7" height="4.7" class="bar"/>
+<rect x="694.7" y="1279.8" width="32.7" height="0.2" class="bar"/>
+<rect x="728.3" y="1279.0" width="32.7" height="1.0" class="bar"/>
+<rect x="762.0" y="1279.2" width="32.7" height="0.8" class="bar"/>
+<rect x="795.7" y="1279.0" width="32.7" height="1.0" class="bar"/>
+<rect x="829.3" y="1279.6" width="32.7" height="0.4" class="bar"/>
+<rect x="863.0" y="1279.0" width="32.7" height="1.0" class="bar"/>
+<rect x="896.7" y="1279.6" width="32.7" height="0.4" class="bar"/>
+<rect x="930.3" y="1279.4" width="32.7" height="0.6" class="bar"/>
+<rect x="964.0" y="1277.3" width="32.7" height="2.7" class="bar"/>
+<rect x="997.7" y="1279.8" width="32.7" height="0.2" class="bar"/>
+<rect x="1031.3" y="1274.9" width="32.7" height="5.1" class="bar"/>
+<text x="55" y="1295" class="small">$0</text>
+<text x="975" y="1295" class="small">99th pct: $527.68</text>
+<text x="885" y="1173" class="small">above display cap: 23</text>
+</svg>

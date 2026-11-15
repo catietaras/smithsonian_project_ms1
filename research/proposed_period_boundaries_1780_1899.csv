@@ -1,0 +1,22 @@
+period_id,start_date,end_date,label,boundary_basis,authority_caveat,automatic_assignment_status
+P01,1780-08-24,unknown_day_in_1794,"1780 resolution claim window","August 24, 1780 resolution; NARA states its claim limit expired in 1794","Exact expiration day is unknown; awards may have been state-administered",do_not_assign_until_exact_end_or_uncertain_date_rule_is_defined
+P02,unknown_day_in_1794,1818-03-17,"Private acts, residual resolution claims, and invalid-pension balances","Expiration of ordinary 1780-resolution claims through eve of 1818 service-pension act","Not a uniform entitlement regime; authority class is required",do_not_assign_until_exact_start_or_uncertain_date_rule_is_defined
+P03,1818-03-18,1820-04-30,"1818 veteran service-pension context","1818 veteran service-pension act","Widow appearance may mean unpaid veteran balance or private act, not own pension",proposed_only
+P04,1820-05-01,1823-02-28,"1818 pensions under property and need review","1820 remedial/property-schedule act","Contextual veteran-pension boundary only",proposed_only
+P05,1823-03-01,1828-05-14,"Restoration phase of 1818 veteran pensions","1823 restoration act","Contextual veteran-pension boundary only",proposed_only
+P06,1828-05-15,1832-06-06,"1828 full-pay veteran service-pension context","1828 service-pension act","Widow payment still requires separate authority classification",proposed_only
+P07,1832-06-07,1836-07-03,"1832 expanded veteran pensions and widow/child balance collection","1832 service-pension act","Unpaid balance is not an annual widow award",proposed_only
+P08,1836-07-04,1838-07-06,"First broad federal Revolutionary widow-pension phase","Act of July 4, 1836","Private acts and balance claims remain separate overlays",proposed_only
+P09,1838-07-07,1843-03-02,"Five-year pre-1794-marriage widow pensions","Act of July 7, 1838","Certificate date does not prove this act governed the record",proposed_only
+P10,1843-03-03,1844-06-16,"One-year continuation phase","Act of March 3, 1843","Continuation may be stated with earlier acts",proposed_only
+P11,1844-06-17,1848-02-01,"Four-year continuation phase","Act of June 17, 1844","Continuation may be stated with earlier acts",proposed_only
+P12,1848-02-02,1848-07-28,"Life benefit for pre-1794 marriages","Act of February 2, 1848","Commencement dates may be March 4, 1848",proposed_only
+P13,1848-07-29,1853-02-02,"Life benefit expanded to pre-1800 marriages","Act of July 29, 1848","Other 1848 half-pay statutes require authority classification",proposed_only
+P14,1853-02-03,1855-02-27,"Post-1800 marriage eligibility for Revolutionary Army widows","Act of February 3, 1853","Other-war half-pay provisions in same act should not be merged",proposed_only
+P15,1855-02-28,1858-06-02,"Post-1800 rule extended to Revolutionary naval widows","Act of February 28, 1855","Army and naval authority should remain distinguishable",proposed_only
+P16,1858-06-03,1867-02-17,"Life continuation of covered half-pay and special-act benefits","Act of June 3, 1858","Persons already on life pensions were excluded; 1862 and 1866 changes remain contextual",proposed_only
+P17,1867-02-18,1868-07-26,"Rate equalization for specified Revolutionary widows","Joint resolution of February 18, 1867","Retroactive effective date does not change certificate chronology",proposed_only
+P18,1868-07-27,1873-03-02,"Eight-dollar monthly floor for Revolutionary widows","Act of July 27, 1868","Earlier entitlement law may still govern",proposed_only
+P19,1873-03-03,1878-03-08,"Revised and consolidated pension-law administration","Act of March 3, 1873","Primarily an administration/rules boundary",proposed_only
+P20,1878-03-09,1880-06-08,"Fourteen-day or engagement eligibility at eight dollars monthly","Act of March 9, 1878","Private acts remain possible",proposed_only
+P21,1880-06-09,1899-03-27,"Late awards, reissues, private acts, and naval restoration context","Act of June 9, 1880 through latest parsed certificate date","1899 endpoint is unverified and probably an OCR error; no single uniform regime is implied",proposed_only

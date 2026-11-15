@@ -1,0 +1,282 @@
+period_for_summary,veteran_rank,service_duration_group,page_records,pension_files,numeric_amounts,mean_annual_amount,median_annual_amount,minimum,maximum,missing_amounts,small_sample
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Captain,12_to_under_24_months,4,4,3,185.56,246.67,10.0,300.0,1,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Captain,24_months_or_more,13,13,1,480.0,480.0,480.0,480.0,12,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Captain,6_to_under_12_months,4,4,2,220.0,220.0,120.0,320.0,2,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Captain,duration_unresolved,20,20,9,322.38,431.1,88.0,480.0,11,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Captain,under_6_months,2,2,1,33.75,33.75,33.75,33.75,1,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Colonel,12_to_under_24_months,1,1,1,475.0,475.0,475.0,475.0,0,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Colonel,24_months_or_more,2,2,0,,,,,2,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Corporal,12_to_under_24_months,5,5,3,108.04,52.83,48.63,222.66,2,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Corporal,24_months_or_more,9,9,1,88.0,88.0,88.0,88.0,8,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Corporal,6_to_under_12_months,5,5,2,34.35,34.35,27.62,41.08,3,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Corporal,duration_unresolved,9,9,2,84.0,84.0,80.0,88.0,7,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Lieutenant,12_to_under_24_months,1,1,0,,,,,1,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Lieutenant,24_months_or_more,13,13,1,320.0,320.0,320.0,320.0,12,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Lieutenant,6_to_under_12_months,3,3,0,,,,,3,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Lieutenant,duration_unresolved,6,5,4,243.33,166.67,40.0,600.0,2,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Lieutenant,under_6_months,1,1,1,47.77,47.77,47.77,47.77,0,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Major,12_to_under_24_months,1,1,0,,,,,1,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Major,24_months_or_more,4,4,1,600.0,600.0,600.0,600.0,3,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Major,6_to_under_12_months,1,1,1,1111.5,1111.5,1111.5,1111.5,0,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Major,duration_unresolved,10,10,8,108.22,86.72,36.66,237.13,2,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Private,12_to_under_24_months,184,184,85,54.19,50.11,10.0,166.22,99,False
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Private,24_months_or_more,184,183,40,79.05,80.0,50.0,144.0,144,False
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Private,6_to_under_12_months,219,219,107,31.17,26.67,16.88,311.0,112,False
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Private,duration_unresolved,375,353,219,63.16,66.66,0.0,400.0,156,False
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Private,under_6_months,17,17,9,58.83,58.44,28.4,139.44,8,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Sergeant,12_to_under_24_months,9,9,4,76.76,78.33,60.4,90.0,5,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Sergeant,24_months_or_more,29,29,9,119.13,120.0,20.0,324.08,20,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Sergeant,6_to_under_12_months,25,25,7,101.74,55.0,33.5,296.0,18,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Sergeant,duration_unresolved,21,21,7,141.43,120.0,90.0,320.0,14,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Unresolved,12_to_under_24_months,83,79,32,158.05,106.08,10.0,440.0,51,False
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Unresolved,24_months_or_more,100,100,24,225.25,110.25,80.0,600.0,76,False
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Unresolved,6_to_under_12_months,97,96,48,85.68,46.08,21.21,535.5,49,False
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Unresolved,duration_unresolved,357,342,217,143.13,80.0,0.0,1114.8,140,False
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Unresolved,under_6_months,51,50,22,117.08,73.66,20.0,575.26,29,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Captain,12_to_under_24_months,3,3,1,44.5,44.5,44.5,44.5,2,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Captain,24_months_or_more,27,26,1,480.0,480.0,480.0,480.0,26,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Captain,6_to_under_12_months,11,11,3,211.34,198.2,122.5,313.33,8,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Captain,duration_unresolved,10,9,1,480.0,480.0,480.0,480.0,9,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Colonel,12_to_under_24_months,1,1,0,,,,,1,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Colonel,24_months_or_more,7,7,1,1000.02,1000.02,1000.02,1000.02,6,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Colonel,duration_unresolved,1,1,0,,,,,1,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Corporal,12_to_under_24_months,4,4,1,47.66,47.66,47.66,47.66,3,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Corporal,24_months_or_more,38,37,1,88.08,88.08,88.08,88.08,37,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Corporal,6_to_under_12_months,13,13,10,28.55,29.33,11.33,50.33,3,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Corporal,duration_unresolved,8,8,4,76.83,87.94,27.44,104.0,4,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Lieutenant,12_to_under_24_months,14,14,7,231.61,250.25,100.0,303.33,7,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Lieutenant,24_months_or_more,21,21,2,247.5,247.5,180.0,315.0,19,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Lieutenant,6_to_under_12_months,10,10,5,102.57,103.98,93.33,109.33,5,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Lieutenant,duration_unresolved,5,5,2,181.86,181.86,120.6,243.11,3,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Lieutenant,under_6_months,1,1,1,295.33,295.33,295.33,295.33,0,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Major,12_to_under_24_months,1,1,0,,,,,1,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Major,24_months_or_more,8,8,2,318.75,318.75,37.5,600.0,6,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Major,6_to_under_12_months,3,3,1,286.66,286.66,286.66,286.66,2,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Major,duration_unresolved,5,5,2,166.07,166.07,100.41,231.73,3,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Major,under_6_months,1,1,0,,,,,1,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Private,12_to_under_24_months,730,715,297,55.65,53.88,0.0,166.67,433,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Private,24_months_or_more,1029,1015,62,68.31,80.0,8.5,370.33,967,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Private,6_to_under_12_months,865,843,516,30.37,26.67,10.33,166.67,349,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Private,duration_unresolved,563,553,272,45.7,39.11,3.5,238.23,291,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Private,under_6_months,35,35,18,52.85,46.94,20.0,114.66,17,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Sergeant,12_to_under_24_months,24,23,8,100.37,97.08,62.83,153.33,16,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Sergeant,24_months_or_more,78,77,5,132.12,120.0,120.0,180.0,73,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Sergeant,6_to_under_12_months,31,31,5,61.43,57.16,36.33,97.77,26,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Sergeant,duration_unresolved,28,28,4,96.48,110.25,44.8,120.62,24,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Sergeant,under_6_months,5,5,3,77.6,63.03,53.33,116.44,2,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Unresolved,12_to_under_24_months,213,208,95,135.55,75.41,5.0,811.66,118,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Unresolved,24_months_or_more,374,362,45,190.79,100.06,0.0,1136.33,329,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Unresolved,6_to_under_12_months,243,240,147,74.06,48.04,10.0,399.21,96,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Unresolved,duration_unresolved,247,239,119,118.79,68.33,2.27,552.83,128,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Unresolved,under_6_months,90,89,57,66.61,55.87,9.96,246.44,33,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Captain,12_to_under_24_months,5,5,0,,,,,5,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Captain,24_months_or_more,18,18,0,,,,,18,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Captain,6_to_under_12_months,2,2,0,,,,,2,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Captain,duration_unresolved,31,30,8,252.2,242.43,26.39,463.33,23,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Captain,under_6_months,2,2,1,123.33,123.33,123.33,123.33,1,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Colonel,24_months_or_more,3,2,0,,,,,3,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Colonel,6_to_under_12_months,1,1,0,,,,,1,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Colonel,duration_unresolved,2,2,2,338.47,338.47,109.44,567.5,0,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Corporal,12_to_under_24_months,3,3,0,,,,,3,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Corporal,24_months_or_more,29,28,0,,,,,29,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Corporal,6_to_under_12_months,8,8,1,26.39,26.39,26.39,26.39,7,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Corporal,duration_unresolved,44,43,14,61.97,49.78,24.77,149.66,30,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Lieutenant,12_to_under_24_months,5,5,1,222.5,222.5,222.5,222.5,4,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Lieutenant,24_months_or_more,26,24,0,,,,,26,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Lieutenant,6_to_under_12_months,7,7,0,,,,,7,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Lieutenant,duration_unresolved,52,52,12,239.11,210.44,97.1,468.88,40,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Lieutenant,under_6_months,1,1,0,,,,,1,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Major,24_months_or_more,2,2,0,,,,,2,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Major,6_to_under_12_months,1,1,0,,,,,1,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Major,duration_unresolved,10,10,5,136.13,103.6,31.99,383.3,5,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Private,12_to_under_24_months,586,552,96,57.13,53.33,0.0,400.0,490,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Private,24_months_or_more,708,675,11,74.65,80.0,28.66,157.33,697,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Private,6_to_under_12_months,588,561,134,32.88,26.94,15.88,311.66,454,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Private,duration_unresolved,2208,2127,739,44.74,37.66,3.33,325.33,1469,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Private,under_6_months,27,27,7,61.76,57.66,29.78,112.2,20,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Sergeant,12_to_under_24_months,14,14,1,55.0,55.0,55.0,55.0,13,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Sergeant,24_months_or_more,53,47,0,,,,,53,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Sergeant,6_to_under_12_months,10,10,1,30.5,30.5,30.5,30.5,9,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Sergeant,duration_unresolved,78,74,20,177.65,118.42,33.33,1500.0,58,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Sergeant,under_6_months,1,1,0,,,,,1,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Unresolved,12_to_under_24_months,156,150,34,86.64,74.0,40.0,357.5,122,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Unresolved,24_months_or_more,255,242,15,142.09,88.0,43.33,600.0,240,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Unresolved,6_to_under_12_months,121,117,38,62.8,37.73,23.25,258.16,83,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Unresolved,duration_unresolved,571,534,228,112.98,71.16,11.38,1000.0,343,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Unresolved,under_6_months,41,38,20,95.26,67.54,23.33,424.16,21,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Captain,12_to_under_24_months,1,1,1,85.46,85.46,85.46,85.46,0,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Captain,24_months_or_more,9,8,2,800.0,800.0,600.0,1000.0,7,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Captain,6_to_under_12_months,1,1,1,120.0,120.0,120.0,120.0,0,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Captain,duration_unresolved,16,15,6,304.32,236.33,120.0,586.6,10,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Colonel,24_months_or_more,1,1,0,,,,,1,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Corporal,12_to_under_24_months,1,1,1,5.33,5.33,5.33,5.33,0,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Corporal,24_months_or_more,7,7,0,,,,,7,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Corporal,6_to_under_12_months,2,2,2,29.61,29.61,28.47,30.75,0,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Corporal,duration_unresolved,24,23,12,61.96,69.03,29.14,94.33,12,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Lieutenant,12_to_under_24_months,1,1,1,295.55,295.55,295.55,295.55,0,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Lieutenant,24_months_or_more,2,2,0,,,,,2,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Lieutenant,6_to_under_12_months,3,2,2,145.18,145.18,135.18,155.18,1,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Lieutenant,duration_unresolved,12,12,3,149.99,168.88,103.97,177.11,9,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Lieutenant,under_6_months,1,1,1,76.33,76.33,76.33,76.33,0,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Major,12_to_under_24_months,1,1,1,62.5,62.5,62.5,62.5,0,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Major,24_months_or_more,3,3,0,,,,,3,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Major,6_to_under_12_months,3,2,2,76.33,76.33,32.66,120.0,1,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Major,duration_unresolved,7,7,4,196.08,89.94,42.94,561.5,3,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Private,12_to_under_24_months,188,183,85,55.36,54.66,1.5,119.2,103,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Private,24_months_or_more,255,250,19,79.79,80.0,28.31,120.0,236,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Private,6_to_under_12_months,256,249,123,31.2,27.1,20.0,311.08,133,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Private,duration_unresolved,1630,1541,759,44.66,36.66,0.0,311.33,871,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Private,under_6_months,17,17,13,60.4,36.66,22.5,313.98,4,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Sergeant,12_to_under_24_months,6,6,4,76.74,72.38,53.85,108.33,2,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Sergeant,24_months_or_more,14,13,0,,,,,14,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Sergeant,6_to_under_12_months,4,4,2,39.87,39.87,35.16,44.58,2,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Sergeant,duration_unresolved,37,36,12,90.62,101.57,41.66,140.66,25,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Unresolved,12_to_under_24_months,146,145,91,97.55,60.0,10.0,588.66,55,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Unresolved,24_months_or_more,219,216,66,134.5,80.0,12.0,600.0,153,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Unresolved,6_to_under_12_months,196,195,120,58.65,30.47,20.0,1148.64,76,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Unresolved,duration_unresolved,474,444,268,101.21,70.76,0.0,600.0,206,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Unresolved,under_6_months,33,33,24,99.46,48.56,22.5,1000.0,9,False
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Captain,12_to_under_24_months,1,1,1,331.33,331.33,331.33,331.33,0,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Captain,duration_unresolved,9,8,2,286.33,286.33,172.66,400.0,7,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Corporal,24_months_or_more,2,2,0,,,,,2,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Corporal,duration_unresolved,6,6,1,56.83,56.83,56.83,56.83,5,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Lieutenant,12_to_under_24_months,1,1,1,484.18,484.18,484.18,484.18,0,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Lieutenant,duration_unresolved,11,11,1,105.78,105.78,105.78,105.78,10,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Major,24_months_or_more,1,1,0,,,,,1,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Major,duration_unresolved,2,2,0,,,,,2,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Private,12_to_under_24_months,16,15,5,51.0,46.66,43.33,70.0,11,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Private,24_months_or_more,18,18,0,,,,,18,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Private,6_to_under_12_months,20,19,9,37.01,28.42,22.77,100.12,11,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Private,duration_unresolved,658,646,164,49.79,41.16,4.66,153.08,494,False
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Private,under_6_months,1,1,1,23.33,23.33,23.33,23.33,0,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Sergeant,duration_unresolved,23,22,2,66.25,66.25,12.5,120.0,21,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Unresolved,12_to_under_24_months,9,9,4,67.43,57.88,41.43,112.53,5,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Unresolved,24_months_or_more,15,15,1,320.0,320.0,320.0,320.0,14,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Unresolved,6_to_under_12_months,9,9,5,28.56,26.16,20.0,36.66,4,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Unresolved,duration_unresolved,200,193,60,117.39,78.33,7.22,521.75,140,False
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Unresolved,under_6_months,2,2,1,49.66,49.66,49.66,49.66,1,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Captain,12_to_under_24_months,5,5,3,244.83,300.0,74.0,360.5,2,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Captain,24_months_or_more,2,2,1,480.0,480.0,480.0,480.0,1,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Captain,6_to_under_12_months,5,5,3,271.89,170.66,120.0,525.0,2,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Captain,duration_unresolved,51,45,12,322.09,300.0,100.0,525.0,39,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Captain,under_6_months,2,2,2,137.94,137.94,25.55,250.33,0,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Colonel,24_months_or_more,1,1,1,600.0,600.0,600.0,600.0,0,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Colonel,duration_unresolved,5,5,0,,,,,5,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Corporal,12_to_under_24_months,1,1,1,153.08,153.08,153.08,153.08,0,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Corporal,24_months_or_more,2,2,1,40.0,40.0,40.0,40.0,1,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Corporal,6_to_under_12_months,2,2,2,36.24,36.24,28.47,44.0,0,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Corporal,duration_unresolved,56,52,20,76.99,88.0,24.77,120.0,36,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Lieutenant,24_months_or_more,4,4,1,321.0,321.0,321.0,321.0,3,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Lieutenant,duration_unresolved,50,43,19,211.13,201.5,26.66,476.0,31,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Major,24_months_or_more,1,1,1,600.0,600.0,600.0,600.0,0,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Major,6_to_under_12_months,1,1,1,286.66,286.66,286.66,286.66,0,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Major,duration_unresolved,17,17,8,126.87,59.99,26.66,600.0,9,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Private,12_to_under_24_months,72,68,42,72.52,60.66,10.0,253.33,30,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Private,24_months_or_more,96,96,41,83.0,80.0,27.55,250.68,55,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Private,6_to_under_12_months,102,99,72,36.75,30.66,7.54,288.23,30,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Private,duration_unresolved,3675,3106,1419,56.62,48.88,0.0,936.66,2256,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Private,under_6_months,10,10,5,76.12,70.83,45.88,121.43,5,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Sergeant,24_months_or_more,4,4,1,120.0,120.0,120.0,120.0,3,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Sergeant,6_to_under_12_months,5,5,5,50.14,31.83,12.23,96.66,0,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Sergeant,duration_unresolved,104,95,27,101.78,120.0,30.0,240.0,77,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Unresolved,12_to_under_24_months,59,57,31,142.45,61.55,10.0,533.33,28,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Unresolved,24_months_or_more,114,111,64,257.0,156.0,0.0,600.0,50,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Unresolved,6_to_under_12_months,78,77,51,71.38,36.66,4.0,318.5,27,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Unresolved,duration_unresolved,1138,982,535,137.69,80.1,0.0,2100.0,603,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Unresolved,under_6_months,13,13,13,67.54,72.3,28.96,144.16,0,False
+"1853-02-03 onward (Act of February 3, 1853)",Captain,12_to_under_24_months,2,2,2,371.33,371.33,352.0,390.66,0,True
+"1853-02-03 onward (Act of February 3, 1853)",Captain,24_months_or_more,4,4,2,600.0,600.0,600.0,600.0,2,True
+"1853-02-03 onward (Act of February 3, 1853)",Captain,6_to_under_12_months,7,7,3,192.61,195.83,160.0,222.0,4,True
+"1853-02-03 onward (Act of February 3, 1853)",Captain,duration_unresolved,45,38,27,383.68,480.0,20.0,600.0,18,False
+"1853-02-03 onward (Act of February 3, 1853)",Colonel,duration_unresolved,4,3,2,216.65,216.65,103.3,330.0,2,True
+"1853-02-03 onward (Act of February 3, 1853)",Corporal,24_months_or_more,2,2,1,88.0,88.0,88.0,88.0,1,True
+"1853-02-03 onward (Act of February 3, 1853)",Corporal,6_to_under_12_months,2,1,2,44.0,44.0,44.0,44.0,0,True
+"1853-02-03 onward (Act of February 3, 1853)",Corporal,duration_unresolved,44,38,25,90.44,88.0,29.33,196.0,19,False
+"1853-02-03 onward (Act of February 3, 1853)",Lieutenant,duration_unresolved,41,32,22,259.02,310.34,80.0,390.0,19,False
+"1853-02-03 onward (Act of February 3, 1853)",Major,24_months_or_more,1,1,1,600.0,600.0,600.0,600.0,0,True
+"1853-02-03 onward (Act of February 3, 1853)",Major,6_to_under_12_months,1,1,0,,,,,1,True
+"1853-02-03 onward (Act of February 3, 1853)",Major,duration_unresolved,9,9,6,275.57,210.05,80.0,600.0,3,True
+"1853-02-03 onward (Act of February 3, 1853)",Private,12_to_under_24_months,50,49,34,63.32,48.1,8.0,287.32,16,False
+"1853-02-03 onward (Act of February 3, 1853)",Private,24_months_or_more,55,55,21,80.15,80.0,21.33,100.0,34,False
+"1853-02-03 onward (Act of February 3, 1853)",Private,6_to_under_12_months,63,62,31,46.1,29.21,20.0,244.8,32,False
+"1853-02-03 onward (Act of February 3, 1853)",Private,duration_unresolved,2843,2433,1551,61.67,63.55,0.0,212.0,1292,False
+"1853-02-03 onward (Act of February 3, 1853)",Private,under_6_months,5,5,4,61.94,48.14,34.8,116.66,1,True
+"1853-02-03 onward (Act of February 3, 1853)",Sergeant,12_to_under_24_months,4,4,2,216.48,216.48,166.29,266.66,2,True
+"1853-02-03 onward (Act of February 3, 1853)",Sergeant,24_months_or_more,1,1,0,,,,,1,True
+"1853-02-03 onward (Act of February 3, 1853)",Sergeant,6_to_under_12_months,2,2,2,53.1,53.1,51.71,54.5,0,True
+"1853-02-03 onward (Act of February 3, 1853)",Sergeant,duration_unresolved,84,79,44,120.24,120.0,0.0,500.97,40,False
+"1853-02-03 onward (Act of February 3, 1853)",Sergeant,under_6_months,1,1,0,,,,,1,True
+"1853-02-03 onward (Act of February 3, 1853)",Unresolved,12_to_under_24_months,34,33,19,164.32,65.55,40.1,574.11,15,False
+"1853-02-03 onward (Act of February 3, 1853)",Unresolved,24_months_or_more,44,44,18,279.14,270.0,80.0,600.0,26,False
+"1853-02-03 onward (Act of February 3, 1853)",Unresolved,6_to_under_12_months,33,33,28,63.22,30.0,20.0,420.0,5,False
+"1853-02-03 onward (Act of February 3, 1853)",Unresolved,duration_unresolved,868,746,472,115.63,80.0,0.0,1000.0,396,False
+"1853-02-03 onward (Act of February 3, 1853)",Unresolved,under_6_months,10,10,6,163.21,53.33,22.24,576.66,4,True
+Before 1836-07-04 — outside seven-period frame,Captain,12_to_under_24_months,5,5,3,343.83,286.66,240.0,504.82,2,True
+Before 1836-07-04 — outside seven-period frame,Captain,24_months_or_more,7,7,4,480.0,480.0,480.0,480.0,3,True
+Before 1836-07-04 — outside seven-period frame,Captain,6_to_under_12_months,5,5,3,222.67,150.0,150.0,368.0,2,True
+Before 1836-07-04 — outside seven-period frame,Captain,duration_unresolved,8,6,5,261.09,156.66,100.0,600.0,3,True
+Before 1836-07-04 — outside seven-period frame,Captain,under_6_months,1,1,1,146.36,146.36,146.36,146.36,0,True
+Before 1836-07-04 — outside seven-period frame,Colonel,12_to_under_24_months,1,1,1,330.0,330.0,330.0,330.0,0,True
+Before 1836-07-04 — outside seven-period frame,Colonel,duration_unresolved,3,3,2,58.82,58.82,27.27,90.38,1,True
+Before 1836-07-04 — outside seven-period frame,Corporal,24_months_or_more,6,6,4,96.0,88.0,88.0,120.0,2,True
+Before 1836-07-04 — outside seven-period frame,Corporal,6_to_under_12_months,3,3,1,25.66,25.66,25.66,25.66,2,True
+Before 1836-07-04 — outside seven-period frame,Corporal,duration_unresolved,3,3,3,97.33,96.0,88.0,108.0,0,True
+Before 1836-07-04 — outside seven-period frame,Lieutenant,12_to_under_24_months,1,1,0,,,,,1,True
+Before 1836-07-04 — outside seven-period frame,Lieutenant,6_to_under_12_months,1,1,0,,,,,1,True
+Before 1836-07-04 — outside seven-period frame,Lieutenant,duration_unresolved,3,3,1,105.62,105.62,105.62,105.62,2,True
+Before 1836-07-04 — outside seven-period frame,Major,12_to_under_24_months,2,2,2,49.05,49.05,48.1,50.0,0,True
+Before 1836-07-04 — outside seven-period frame,Major,6_to_under_12_months,1,1,0,,,,,1,True
+Before 1836-07-04 — outside seven-period frame,Major,duration_unresolved,3,3,2,122.0,122.0,100.0,144.0,1,True
+Before 1836-07-04 — outside seven-period frame,Private,12_to_under_24_months,60,59,38,57.42,54.54,1.33,262.13,22,False
+Before 1836-07-04 — outside seven-period frame,Private,24_months_or_more,48,48,17,81.06,80.0,50.0,96.0,31,False
+Before 1836-07-04 — outside seven-period frame,Private,6_to_under_12_months,85,84,52,33.83,26.94,10.0,146.66,33,False
+Before 1836-07-04 — outside seven-period frame,Private,duration_unresolved,281,273,186,60.81,60.0,0.0,100.66,95,False
+Before 1836-07-04 — outside seven-period frame,Private,under_6_months,10,10,7,46.6,33.33,20.88,99.5,3,True
+Before 1836-07-04 — outside seven-period frame,Sergeant,12_to_under_24_months,5,5,4,126.72,141.39,23.1,201.0,1,True
+Before 1836-07-04 — outside seven-period frame,Sergeant,24_months_or_more,7,7,4,194.22,108.44,20.0,540.0,3,True
+Before 1836-07-04 — outside seven-period frame,Sergeant,6_to_under_12_months,6,6,3,140.0,50.0,30.0,340.0,3,True
+Before 1836-07-04 — outside seven-period frame,Sergeant,duration_unresolved,6,6,3,59.46,60.0,22.38,96.0,3,True
+Before 1836-07-04 — outside seven-period frame,Sergeant,under_6_months,1,1,1,264.16,264.16,264.16,264.16,0,True
+Before 1836-07-04 — outside seven-period frame,Unresolved,12_to_under_24_months,37,37,17,126.66,67.28,1.51,600.0,20,False
+Before 1836-07-04 — outside seven-period frame,Unresolved,24_months_or_more,43,42,21,201.81,144.0,50.5,600.0,22,False
+Before 1836-07-04 — outside seven-period frame,Unresolved,6_to_under_12_months,51,49,23,77.77,37.48,20.0,320.0,28,False
+Before 1836-07-04 — outside seven-period frame,Unresolved,duration_unresolved,217,208,136,103.1,80.0,1.75,600.0,81,False
+Before 1836-07-04 — outside seven-period frame,Unresolved,under_6_months,19,19,13,104.17,40.0,27.35,430.0,6,False
+Unassigned — certificate issue date unresolved,Captain,12_to_under_24_months,6,6,2,304.66,304.66,300.0,309.33,4,True
+Unassigned — certificate issue date unresolved,Captain,24_months_or_more,25,23,2,480.0,480.0,480.0,480.0,23,True
+Unassigned — certificate issue date unresolved,Captain,6_to_under_12_months,12,12,3,168.11,160.0,150.33,194.0,9,True
+Unassigned — certificate issue date unresolved,Captain,duration_unresolved,86,68,28,328.8,220.66,2.0,1480.0,58,False
+Unassigned — certificate issue date unresolved,Captain,under_6_months,2,2,2,172.9,172.9,59.15,286.66,0,True
+Unassigned — certificate issue date unresolved,Colonel,12_to_under_24_months,2,2,2,173.33,173.33,40.5,306.16,0,True
+Unassigned — certificate issue date unresolved,Colonel,24_months_or_more,2,2,0,,,,,2,True
+Unassigned — certificate issue date unresolved,Colonel,6_to_under_12_months,1,1,0,,,,,1,True
+Unassigned — certificate issue date unresolved,Colonel,duration_unresolved,6,6,4,346.58,399.16,88.0,500.0,2,True
+Unassigned — certificate issue date unresolved,Corporal,12_to_under_24_months,9,9,3,76.23,82.5,48.26,97.93,6,True
+Unassigned — certificate issue date unresolved,Corporal,24_months_or_more,28,27,2,88.38,88.38,88.0,88.75,26,True
+Unassigned — certificate issue date unresolved,Corporal,6_to_under_12_months,11,11,9,40.26,29.33,27.61,111.24,2,True
+Unassigned — certificate issue date unresolved,Corporal,duration_unresolved,83,75,31,62.78,60.82,8.0,123.54,52,False
+Unassigned — certificate issue date unresolved,Lieutenant,12_to_under_24_months,3,3,1,214.11,214.11,214.11,214.11,2,True
+Unassigned — certificate issue date unresolved,Lieutenant,24_months_or_more,15,15,0,,,,,15,True
+Unassigned — certificate issue date unresolved,Lieutenant,6_to_under_12_months,10,10,8,160.93,127.51,99.1,408.88,2,True
+Unassigned — certificate issue date unresolved,Lieutenant,duration_unresolved,85,71,22,260.76,278.66,80.0,560.0,63,False
+Unassigned — certificate issue date unresolved,Major,12_to_under_24_months,1,1,0,,,,,1,True
+Unassigned — certificate issue date unresolved,Major,24_months_or_more,11,11,1,24.33,24.33,24.33,24.33,10,True
+Unassigned — certificate issue date unresolved,Major,6_to_under_12_months,1,1,1,568.19,568.19,568.19,568.19,0,True
+Unassigned — certificate issue date unresolved,Major,duration_unresolved,28,28,8,318.07,297.84,20.53,600.0,20,True
+Unassigned — certificate issue date unresolved,Major,under_6_months,1,1,1,21.1,21.1,21.1,21.1,0,True
+Unassigned — certificate issue date unresolved,Private,12_to_under_24_months,627,611,261,54.6,51.66,5.25,325.33,366,False
+Unassigned — certificate issue date unresolved,Private,24_months_or_more,760,737,56,73.68,80.0,21.12,222.32,704,False
+Unassigned — certificate issue date unresolved,Private,6_to_under_12_months,828,796,463,32.41,26.66,2.54,426.46,365,False
+Unassigned — certificate issue date unresolved,Private,duration_unresolved,4944,4248,2156,52.54,43.33,0.0,333.5,2788,False
+Unassigned — certificate issue date unresolved,Private,under_6_months,54,53,30,55.21,43.65,21.44,266.66,24,False
+Unassigned — certificate issue date unresolved,Private | Sergeant,duration_unresolved,1,1,1,28.33,28.33,28.33,28.33,0,True
+Unassigned — certificate issue date unresolved,Sergeant,12_to_under_24_months,18,18,4,89.32,94.46,60.0,108.33,14,True
+Unassigned — certificate issue date unresolved,Sergeant,24_months_or_more,68,67,2,120.25,120.25,120.0,120.5,66,True
+Unassigned — certificate issue date unresolved,Sergeant,6_to_under_12_months,19,19,7,32.96,36.94,13.5,41.83,12,True
+Unassigned — certificate issue date unresolved,Sergeant,duration_unresolved,156,139,48,97.57,103.5,20.0,506.56,108,False
+Unassigned — certificate issue date unresolved,Sergeant,under_6_months,3,3,1,45.82,45.82,45.82,45.82,2,True
+Unassigned — certificate issue date unresolved,Unresolved,12_to_under_24_months,507,496,209,87.7,66.66,5.1,1000.0,298,False
+Unassigned — certificate issue date unresolved,Unresolved,24_months_or_more,851,811,111,141.33,88.0,10.0,600.1,740,False
+Unassigned — certificate issue date unresolved,Unresolved,6_to_under_12_months,580,566,347,45.61,30.66,12.22,469.2,233,False
+Unassigned — certificate issue date unresolved,Unresolved,duration_unresolved,2394,2093,996,102.9,70.07,0.0,1217.33,1398,False
+Unassigned — certificate issue date unresolved,Unresolved,under_6_months,102,101,65,84.17,66.66,2.5,366.66,37,False

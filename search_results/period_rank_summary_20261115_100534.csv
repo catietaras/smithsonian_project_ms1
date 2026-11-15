@@ -1,0 +1,73 @@
+period_for_summary,veteran_rank,page_records,pension_files,numeric_amounts,mean_annual_amount,median_annual_amount,minimum,maximum,missing_amounts,small_sample
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Captain,43,42,16,275.74,273.33,10.0,480.0,27,False
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Colonel,3,3,1,475.0,475.0,475.0,475.0,2,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Corporal,28,28,8,81.1,66.41,27.62,222.66,20,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Lieutenant,24,23,6,223.52,166.67,40.0,600.0,18,True
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Major,16,16,10,257.72,94.66,36.66,1111.5,6,False
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Private,979,929,460,55.35,45.86,0.0,400.0,519,False
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Sergeant,84,84,27,114.13,108.0,20.0,324.08,57,False
+"1836-07-04 to 1838-07-06 (Act of July 4, 1836)",Unresolved,688,654,343,140.56,80.0,0.0,1114.8,345,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Captain,51,49,6,273.09,255.76,44.5,480.0,45,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Colonel,9,9,1,1000.02,1000.02,1000.02,1000.02,8,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Corporal,63,62,16,45.54,29.52,11.33,104.0,47,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Lieutenant,51,51,17,193.42,180.0,93.33,315.0,34,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Major,18,18,5,251.26,231.73,37.5,600.0,13,True
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Private,3222,3099,1165,42.76,35.25,0.0,370.33,2057,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Sergeant,166,163,25,95.58,100.5,36.33,180.0,141,False
+"1838-07-07 to 1843-03-02 (Act of July 7, 1838)",Unresolved,1167,1116,463,108.6,67.66,0.0,1136.33,704,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Captain,58,54,9,237.88,198.2,26.39,463.33,49,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Colonel,6,5,2,338.47,338.47,109.44,567.5,4,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Corporal,84,79,15,59.6,48.26,24.77,149.66,69,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Lieutenant,91,89,13,237.83,222.5,97.1,468.88,78,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Major,13,13,5,136.13,103.6,31.99,383.3,8,True
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Private,4117,3633,987,44.79,37.21,0.0,400.0,3130,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Sergeant,156,137,22,165.38,116.74,30.5,1500.0,134,False
+"1843-03-03 to 1844-06-16 (Act of March 3, 1843)",Unresolved,1144,1003,335,104.86,73.33,11.38,1000.0,809,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Captain,27,23,10,363.14,236.33,85.46,1000.0,17,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Colonel,1,1,0,,,,,1,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Corporal,34,30,15,53.87,45.38,5.33,94.33,19,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Lieutenant,19,17,7,158.89,155.18,76.33,295.55,12,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Major,14,13,7,142.78,83.88,32.66,561.5,7,True
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Private,2346,1933,999,44.78,36.18,0.0,313.98,1347,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Sergeant,61,53,18,81.89,77.38,35.16,140.66,43,False
+"1844-06-17 to 1848-02-01 (Act of June 17, 1844)",Unresolved,1068,921,569,95.43,61.93,0.0,1148.64,499,False
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Captain,10,9,3,301.33,331.33,172.66,400.0,7,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Corporal,8,7,1,56.83,56.83,56.83,56.83,7,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Lieutenant,12,12,2,294.98,294.98,105.78,484.18,10,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Major,3,3,0,,,,,3,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Private,713,677,179,49.04,40.6,4.66,153.08,534,False
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Sergeant,23,22,2,66.25,66.25,12.5,120.0,21,True
+"1848-02-02 to 1848-07-28 (Act of February 2, 1848)",Unresolved,235,216,71,110.22,72.89,7.22,521.75,164,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Captain,65,54,21,293.86,250.33,25.55,525.0,44,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Colonel,6,6,1,600.0,600.0,600.0,600.0,5,True
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Corporal,61,57,24,75.22,88.0,24.77,153.08,37,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Lieutenant,54,46,20,216.62,235.64,26.66,476.0,34,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Major,19,19,10,190.16,85.94,26.66,600.0,9,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Private,3955,3256,1579,56.89,48.88,0.0,936.66,2376,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Sergeant,113,103,33,94.51,102.0,12.23,240.0,80,False
+"1848-07-29 to 1853-02-02 (Act of July 29, 1848)",Unresolved,1402,1181,694,142.72,80.0,0.0,2100.0,708,False
+"1853-02-03 onward (Act of February 3, 1853)",Captain,58,46,34,378.82,427.07,20.0,600.0,24,False
+"1853-02-03 onward (Act of February 3, 1853)",Colonel,4,3,2,216.65,216.65,103.3,330.0,2,True
+"1853-02-03 onward (Act of February 3, 1853)",Corporal,48,40,28,87.04,88.0,29.33,196.0,20,False
+"1853-02-03 onward (Act of February 3, 1853)",Lieutenant,41,32,22,259.02,310.34,80.0,390.0,19,False
+"1853-02-03 onward (Act of February 3, 1853)",Major,11,10,7,321.92,300.0,80.0,600.0,4,True
+"1853-02-03 onward (Act of February 3, 1853)",Private,3016,2547,1641,61.65,61.11,0.0,287.32,1375,False
+"1853-02-03 onward (Act of February 3, 1853)",Sergeant,92,85,48,121.45,120.0,0.0,500.97,44,False
+"1853-02-03 onward (Act of February 3, 1853)",Unresolved,989,841,543,120.58,80.0,0.0,1000.0,446,False
+Before 1836-07-04 — outside seven-period frame,Captain,26,24,16,316.96,303.33,100.0,600.0,10,False
+Before 1836-07-04 — outside seven-period frame,Colonel,4,4,3,149.22,90.38,27.27,330.0,1,True
+Before 1836-07-04 — outside seven-period frame,Corporal,12,12,8,87.71,88.0,25.66,120.0,4,True
+Before 1836-07-04 — outside seven-period frame,Lieutenant,5,5,1,105.62,105.62,105.62,105.62,4,True
+Before 1836-07-04 — outside seven-period frame,Major,6,6,4,85.52,75.0,48.1,144.0,2,True
+Before 1836-07-04 — outside seven-period frame,Private,484,470,300,56.52,50.0,0.0,262.13,184,False
+Before 1836-07-04 — outside seven-period frame,Sergeant,25,25,15,143.09,96.0,20.0,540.0,10,False
+Before 1836-07-04 — outside seven-period frame,Unresolved,367,349,210,112.17,80.0,1.51,600.0,157,False
+Unassigned — certificate issue date unresolved,Captain,131,108,37,314.21,240.0,2.0,1480.0,94,False
+Unassigned — certificate issue date unresolved,Colonel,11,11,6,288.83,318.08,40.5,500.0,5,True
+Unassigned — certificate issue date unresolved,Corporal,131,115,45,60.31,51.33,8.0,123.54,86,False
+Unassigned — certificate issue date unresolved,Lieutenant,113,96,31,233.49,240.0,80.0,560.0,82,False
+Unassigned — certificate issue date unresolved,Major,42,41,11,287.1,244.0,20.53,600.0,31,False
+Unassigned — certificate issue date unresolved,Private,7213,5942,2966,50.0,40.0,0.0,426.46,4247,False
+Unassigned — certificate issue date unresolved,Private | Sergeant,1,1,1,28.33,28.33,28.33,28.33,0,True
+Unassigned — certificate issue date unresolved,Sergeant,264,227,62,89.64,88.33,13.5,506.56,202,False
+Unassigned — certificate issue date unresolved,Unresolved,4434,3832,1728,91.32,60.82,0.0,1217.33,2706,False

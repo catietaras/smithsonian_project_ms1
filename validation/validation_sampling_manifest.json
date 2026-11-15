@@ -1,0 +1,58 @@
+{
+  "created_utc": "2026-11-05T23:05:46.754241+00:00",
+  "random_seed": 20261105,
+  "source_notebook": "smithsonian_pensions_cleaning.ipynb",
+  "source_files": [
+    "search_results/widow_awards_draft_v17.csv",
+    "search_results/widow_award_history_draft.csv",
+    "search_results/validation_sample_20.csv"
+  ],
+  "dataset": "RevolutionCrossroads/nara_revolutionary_war_pension_files_PDFs",
+  "dataset_revision": "1b44f5dcf2a81b033ad634cd7d5758a3cd8058fc",
+  "initial_exact_phrase_filter": [
+    "widow of",
+    "per annum",
+    "rate of",
+    "dollars"
+  ],
+  "candidate_sample": {
+    "rows": 100,
+    "method": "Five mutually exclusive assigned strata with 20 pages each. Existing completed scan-review work is forced into an eligible stratum, then remaining places use ascending SHA-256 keys based on seed, stratum, file_id, and page_number.",
+    "stratum_quotas": {
+      "complete_amount": 20,
+      "incomplete_amount": 20,
+      "missing_certificate_date": 20,
+      "unusually_high_amount": 20,
+      "cancellation_or_reissue": 20
+    },
+    "high_amount_threshold": 500.0,
+    "prior_review_rows_reused": 5,
+    "manual_fields_initialized_blank": [
+      "manual_scan_reviewed",
+      "manual_is_widow_award",
+      "manual_annual_rate",
+      "manual_rank_or_service_role",
+      "manual_act_date",
+      "manual_certificate_date",
+      "manual_commencement_date",
+      "manual_cancellation_or_reissue",
+      "manual_widow_name",
+      "manual_veteran_name",
+      "manual_notes",
+      "reviewer",
+      "review_date"
+    ]
+  },
+  "rejected_file_sample": {
+    "requested_rows": 50,
+    "status": "pending_full_corpus_access",
+    "rejected_population_count": null,
+    "method": "Select the 50 rejected files with the smallest SHA-256 keys based on seed and file_id. This is deterministic, order independent, and requires one pass through the full pinned corpus.",
+    "page_choice": "Within each sampled file, retain the OCR page with the highest count of exact-filter and related near-match terms; ties favor longer OCR text."
+  },
+  "reproduction_command": ".venv/bin/python validation/create_validation_samples.py --root . --include-rejected",
+  "notes": [
+    "The original notebook did not pin a dataset revision. The revision recorded here is the commit cached when the notebook outputs were inspected.",
+    "Manual verification columns are blank. Prior reviewed values and notes are retained in separately labeled prior_* columns."
+  ]
+}
