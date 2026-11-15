@@ -7,7 +7,7 @@ The project uses OCR of NARA Revolutionary War pension and bounty-land applicati
 
 That search favors standardized annual-rate certificates. It does not establish complete coverage of early claims, private acts, orphan claims, or unpaid veteran balances. Broader corpus discovery remains unfinished.
 Chronology and analytical periods
-The research chronology begins with the August 24, 1780 resolution. The existing analysis uses seven certificate-date periods beginning in 1836. A proposed 21-period chronology distinguishes earlier contexts and later changes through 1880, but has not been implemented.
+The project’s historical framework begins with the Continental Congress resolution of August 24, 1780. It distinguishes 21 chronological periods covering early claims and subsequent legal and administrative changes. The summary tables reviewed here use a narrower seven-period grouping beginning in 1836, with earlier and unresolved records listed separately.
 
 Certificate issue date, pension commencement date, and governing law remain separate. A later certificate may concern an earlier law. The earliest certificate found is not necessarily an initial award.
 
@@ -42,10 +42,14 @@ Copied the analysis table into name_review and retained the original name fields
    - Added 10,424 provisional cleaned-name candidates.
    - Retained all 40,058 working records. No people were merged.
 Two user inspections clarified location headings for the Elizabeth Jesse and Belinda Stoughton records. These did not verify every spelling or relationship. Further manual verification was paused.
-Date endpoint and charts
+Date endpoint
 March 27, 1899 appears in the OCR for NARA file 196142829, page 64. In the uploaded award-history CSV, its parsed date is blank. The scan was not checked, so the date remains unresolved rather than established as an OCR error.
 
 The latest populated parsed date found in that CSV was June 12, 1898, also unverified. No latest source-confirmed date has been established.
+Initial visualizations and story
+Three preliminary charts were collected in a PDF: mean and median candidates by certificate period; numeric-amount availability by period; and mean and median candidates for selected service-duration groups in the earliest displayed period. Earlier pipeline documentation also lists histograms, which were not regenerated from the current checkpoint.
+
+The comparisons establish baselines for identifying unusual amounts. The availability chart shows where those baselines rest on incomplete evidence. Mean/median bars summarize differences but do not identify individual anomalies. An interactive distribution chart with period, rank, and duration filters and a source-record detail panel is planned, not built. It will connect unusual values to comparable records and source documents.
 
 The PDF charts were relabeled “Feb 1853–Mar 1899,” with an unverified-endpoint note. Values were not recalculated, and the unresolved 1899 record does not contribute to the period bars. The notebook retains the open-ended bin “1853-02-03 onward.”
 Part 3: Cleaning, summaries, and anomaly analysis: November 15, 2026
@@ -80,7 +84,7 @@ Numeric pages with provisional widow IDs	10,777	$70.68	$47.76
 One mean candidate per provisional widow group	7,703	$70.31	$50.00
 
 
-The first comparison changes coverage; the second changes weighting. The complete candidate range is $0–$2,100. $525 is the 99th percentile, not the maximum. Values are interpreted as annual historical-dollar amounts and are not inflation-adjusted.
+The first comparison changes coverage; the second changes weighting. The higher overall mean than median suggests right skew. The complete candidate range is $0–$2,100. $525 is the 99th percentile, not the maximum. Values are interpreted as annual historical-dollar amounts and are not inflation-adjusted.
 
 Of 15,518 provisional widow groups, 7,703 have numeric amounts, 7,815 have none, and 858 have multiple distinct amounts. These are not verified identities or confirmed pension histories.
 Measure within each group with amounts	Mean across groups	Median across groups
@@ -91,6 +95,8 @@ Median extracted annual-rate candidate	$70.12	$50.00
 
 
 $72.89 is the average of group maxima, not the dataset maximum. Group summaries do not establish initial or final entitlements, lifetime payments, or time-weighted averages. Repeated paperwork may affect within-group means.
+
+Within the 1836–1838 certificate period, median candidates are $30 for 6–under 12 months of service, $57.56 for 12–under 24 months, and $80 for 24 months or more. These groups combine ranks, so duration alone cannot explain the differences. The Captain group in the same period has a median of $273.33 across 16 numeric records. Some combined groups are too small for stable comparisons. These patterns are descriptive, not causal.
 
 Older columns named lowest_observed_rate, highest_observed_rate, mean_observed_rate, and median_observed_rate mean these extracted-candidate measures. A rename/export cell was provided, but its execution has not been confirmed.
 Anomaly-candidate analysis: next step
@@ -103,10 +109,12 @@ The next analysis will:
 4. Track multiple distinct amounts within a provisional widow group separately. Variation can reflect legitimate changes or reissues; it is not automatically a conflict or error.
 5. Retain the amount, comparison group, sample size, flag reason, event status, identifiers, source passage, and page link for each lead.
 Document thresholds, minimum sample sizes, and zero-spread handling when implementing the method. Flags will not correct or delete values.
+Qualitative context
+Declarations, correspondence, witness statements, marriage evidence, and administrative annotations may explain eligibility, service, hardship, delays, or changes in an amount. Retained source passages and page links allow statistical leads to be explored in context. Systematic qualitative analysis has not yet been completed. Personal accounts should be attributed to their sources; an unusual amount alone does not establish hardship, preferential treatment, or fraud.
 AI assistance and researcher review
-AI generated Python code for name-cleaning suggestions, consistency checks, summaries, and CSV exports. I ran it in my notebook and reviewed record counts, sample transformations, summary labels, and preservation of original values. My feedback guided revisions. I also inspected selected source pages for location headings.
+I directed the notebook work by describing in plain English what I wanted the code to do. AI generated Python code for name-cleaning suggestions, consistency checks, statistical summaries, and CSV exports. I checked the code, ran it in my notebook, reviewed the outputs, and requested revisions.
 
-This was output review, not a line-by-line code audit or verification of every extracted value. Automated checks establish internal consistency, not historical accuracy. Results remain exploratory.
+My review included record counts, sample transformations, summary labels, and preservation of original values and anomalies. I also inspected selected source pages to distinguish location headings from names. These checks do not establish the historical accuracy of every extracted value. Results remain exploratory.
 Saved outputs
 Saved under search_results/:
 File	Contents
@@ -120,5 +128,9 @@ period_rank_duration_summary_20261115_100534.csv	Combined summary
 
 
 Summary files retain grouping indexes. Some use earlier labels. Results reflect notebook outputs; exports were not independently recomputed for this documentation.
-Remaining work
-Reconcile record/file counts, align summary labels, and generate anomaly candidates. Expanded periods, broader corpus discovery, transaction classification, and validated identity linkage remain future research tasks.
+Challenges and remaining questions
+OCR can mix location headings and repeated text into names. Many amounts, dates, and durations remain unresolved. Multiple pages may describe one entitlement; a file may contain multiple people, changes, or reissues. AI-generated code required output review and revisions, including correcting labels that implied verified rates.
+
+Next, reconcile file/record counts, align summary labels, and generate updated anomaly candidates. The relationship between the 21-period historical framework and the seven-period summary outputs still needs reconciliation. Broader corpus discovery, transaction classification, and validated identity linkage remain unfinished.
+
+The main questions are whether unusual candidates remain unusual within comparable groups, what explains within-group variation, and how missingness and provisional identity linkage affect the findings.
